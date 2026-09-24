@@ -1,0 +1,48 @@
+Order_ID,Order_Date,Region,State,Store,Product_Category,Product_Name,Customer_Segment,Sales,Quantity,Discount,Profit,Shipping_Mode
+R1001,2025-01-05,South,Karnataka,Store D,Electronics,Keyboard,Home Office,51153,11,10,5115,Same Day
+R1002,2025-01-09,West,Gujarat,Store C,Furniture,Bookshelf,Consumer,33245,17,15,2493,Same Day
+R1003,2025-01-13,East,Assam,Store B,Furniture,Chair,Consumer,57582,3,10,5758,Standard
+R1004,2025-01-17,South,Tamil Nadu,Store E,Furniture,Chair,Home Office,50489,9,0,7573,Same Day
+R1005,2025-01-21,East,Odisha,Store F,Electronics,Speaker,Consumer,48467,6,8,5331,Express
+R1006,2025-01-25,West,Maharashtra,Store C,Furniture,Table,Consumer,54162,15,15,4062,Express
+R1007,2025-01-29,South,Tamil Nadu,Store G,Office Supplies,Markers,Home Office,38453,17,0,5767,Same Day
+R1008,2025-02-02,West,Maharashtra,Store C,Furniture,Desk,Consumer,54348,11,5,6793,Same Day
+R1009,2025-02-06,West,Gujarat,Store A,Furniture,Chair,Consumer,12659,7,10,1265,Same Day
+R1010,2025-02-10,West,Maharashtra,Store B,Furniture,Bookshelf,Consumer,53803,8,0,8070,Same Day
+R1012,2025-02-18,West,Rajasthan,Store A,Electronics,Smartwatch,Corporate,23119,3,0,3467,Standard
+R1013,2025-02-22,North,Punjab,Store F,Office Supplies,Files,Consumer,57737,5,12,5196,Same Day
+R1014,2025-02-26,East,West Bengal,Store B,Office Supplies,Paper,Corporate,37939,5,5,4742,Same Day
+R1015,2025-03-02,North,Haryana,Store F,Office Supplies,Notebook,Home Office,2041,6,0,306,Express
+R1016,2025-03-06,East,West Bengal,Store A,Electronics,Laptop,Corporate,52919,19,10,5291,Standard
+R1017,2025-03-10,North,Haryana,Store A,Office Supplies,Pen Set,Consumer,61792,17,8,6797,Standard
+R1018,2025-03-14,East,Odisha,Store E,Office Supplies,Markers,Home Office,16514,17,2,2311,Standard
+R1019,2025-03-18,North,Punjab,Store A,Office Supplies,Markers,Consumer,58435,8,10,5843,Same Day
+R1020,2025-03-22,West,Rajasthan,Store D,Office Supplies,Files,Corporate,33086,12,12,2977,Same Day
+R1021,2025-03-26,South,Kerala,Store E,Office Supplies,Pen Set,Consumer,44508,4,12,4005,Standard
+R1022,2025-03-30,North,Delhi,Store E,Electronics,Keyboard,Consumer,3971,2,12,357,Same Day
+R1023,2025-04-03,East,West Bengal,Store G,Furniture,Desk,Home Office,25537,6,10,2554.0,Standard
+R1024,2025-04-07,West,Maharashtra,Store H,Office Supplies,Pen Set,Corporate,59902,6,10,5990,Standard
+R1025,2025-04-11,West,Rajasthan,Store H,Furniture,Bookshelf,Corporate,45109,3,8,4961,Standard
+R1026,2025-04-15,North,Delhi,Store B,Office Supplies,Notebook,Consumer,15422,6,15,1156,Standard
+R1027,2025-04-19,East,West Bengal,Store C,Electronics,Laptop,Home Office,17837,10,12,1605,Express
+R1028,2025-04-23,West,Maharashtra,Store G,Furniture,Table,Corporate,21358,16,10,2135,Standard
+R1029,2025-04-27,East,Assam,Store D,Electronics,Monitor,Corporate,18454,15,12,1660,Same Day
+R1030,2025-05-01,East,West Bengal,Store G,Office Supplies,Notebook,Consumer,27132,20,0,4069,Express
+R1031,2025-05-05,East,West Bengal,Store F,Office Supplies,Markers,Home Office,3956,8,2,553,Express
+R1032,2025-05-09,North,Delhi,Store A,Furniture,Cabinet,Corporate,63736,8,8,7010,Same Day
+R1033,2025-05-13,North,Delhi,Store H,Office Supplies,Notebook,Corporate,64430,18,0,9664,Standard
+R1034,2025-05-17,South,Kerala,Store H,Office Supplies,Markers,Home Office,69637,8,5,8704,Standard
+R1035,2025-05-21,West,Maharashtra,Store B,Furniture,Cabinet,Corporate,59309,4,5,7413,Same Day
+R1036,2025-05-25,South,Kerala,Store F,Electronics,Speaker,Consumer,64517,19,15,4838,Same Day
+R1037,2025-05-29,West,Gujarat,Store F,Electronics,Speaker,Home Office,68770,16,5,8596,Express
+R1038,2025-06-02,West,Gujarat,Store G,Electronics,Monitor,Home Office,52216,2,2,7310,Express
+R1039,2025-06-06,South,Tamil Nadu,Store B,Office Supplies,Files,Corporate,43720,5,0,6558,Express
+R1040,2025-06-10,North,Haryana,Store G,Furniture,Chair,Corporate,7417,5,0,1112,Express
+R1041,2025-06-14,West,Rajasthan,Store C,Furniture,Cabinet,Corporate,29493,13,12,2654,Same Day
+R1042,2025-06-18,West,Rajasthan,Store D,Electronics,Tablet,Consumer,43183,13,10,4318,Same Day
+R1043,2025-06-22,South,Tamil Nadu,Store G,Office Supplies,Notebook,Corporate,7307,8,2,1022,Same Day
+R1044,2025-06-26,East,Odisha,Store H,Office Supplies,Paper,Consumer,53007,18,2,7420,Standard
+R1045,2025-06-30,South,Kerala,Store D,Furniture,Table,Home Office,67535,1,10,6753,Standard
+R1046,2025-07-04,South,Kerala,Store C,Electronics,Keyboard,Consumer,66848,1,15,5013,Express
+R1047,2025-07-08,East,Odisha,Store E,Office Supplies,Paper,Consumer,59919,17,2,8388,Same Day
+R1048,2025-07-12,West,Rajasthan,Store E,Electronics,Keyboard,Consumer,48369,9,10,4836,Express
